@@ -11,15 +11,15 @@
 ## About ME 👋
 
 - 🔭 I’m Wang Xin, an algorithm engineer from Didi Chuxing.
-- 🌱 A constant learner and explorer, enthusiastic about participating in open-source projects related to CV and MLLM.
+- 🌱 A constant learner and explorer, enthusiastic about participating in open-source projects related to NLP, CV and LLM.
 - 💬 Email: [wangxin_cv@163.com](wangxin_cv@163.com)
 - 📫 My Blog: [AI JUN](https://blog.csdn.net/wjinjie?type=lately)
 - ⚡ My Zhihu: [AI JUN](https://www.zhihu.com/people/ai-jun-1-35)
 
 ## Interest 👨🏽‍💻
 - 👯 CV: Large Vision Models, Detection, Segmentation and Environmental perception.
-- 😄 LLM : Large Language Model, Prompt Engineering,  Multimodal Large Language Model.
-- 🌱 Language : Python, C++, Pytorch, Tensorflow, Transformers and Markdown.
+- 😄 LLM : Large Language Model, Multimodal Large Language Model, Prompt Engineering, SFT, RL, RAG and so on.
+- 🌱 Language : Python, C++, Shell, Pytorch, Tensorflow, SQL and Markdown.
 - 🤔 Theory : Neural Networks, Machine Learning, Deep Learning.
 
 ## Recently 🌱
